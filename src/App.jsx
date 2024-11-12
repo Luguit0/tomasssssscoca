@@ -148,6 +148,7 @@ function App() {
                 </p>
               </div>
 {/* algo */}
+{/* algo */}
               <div className="bg-black bg-opacity-50 backdrop-blur-md p-6 rounded-lg neon-border ">
                 <form className="space-y-4 ">
                   <div>
